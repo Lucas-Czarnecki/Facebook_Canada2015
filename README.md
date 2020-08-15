@@ -3,15 +3,15 @@
 ## <span style ="color: #dfe3ee"> Table of Contents: </span>
 ---
 
-1. [Introduction to the Data](#<span-style-="color:-#8b9dc3">-1.-Introduction-to-the-Data-</span>)
-2. [Data Collection](#<span-style-="color:-#8b9dc3">-2.-data-collection-</span>)
-3. [Variables](#<span-style-="color:-#8b9dc3">-3.-variables-</span>)
-4. [Data Cleaning](#<span-style-="color:-#8b9dc3">-4.-data-cleaning-</span>)
-5. [How the Data are Organized](#<span-style-="color:-#8b9dc3">-5.-How-the-Data-are-Organized-</span>)
+1. [Introduction to the Data](#1.-Introduction-to-the-Data)
+2. [Data Collection](#2.-data-collection)
+3. [Variables](#3.-variables)
+4. [Data Cleaning](#4.-data-cleaning)
+5. [How the Data are Organized](#5.-How-the-Data-are-Organized)
 ---
 <br>
 
-## <span style ="color: #8b9dc3"> 1. Introduction to the Data </span>
+## 1. Introduction to the Data
 
 This repository contains Facebook user data from the 2015 Canadian general election. Data consists of federal party leaders’ campaign messages (N = 1,711) and the responses to those messages from Facebook users (n = 92,813). Data range from August 4th until October 19th, 2015; the duration of the 2015 election campaign.
 
@@ -20,7 +20,7 @@ The data are organized relationally such that Facebook users’ party identifica
 --- 
 <br>
 
-## <span style ="color: #8b9dc3"> 2. Data Collection </span>
+## 2. Data Collection 
 
 Data were queried from Facebook using R, a statistical program and language, through an established connection to Facebook’s publicly accessible Graph API (v.2.0). Data were queried using the `Rfacebook` package, which provided various functions for accessing Facebook's public API.
 
@@ -41,7 +41,7 @@ For reasons of privacy and practicallity I have uploaded the "raw" data as csv f
 ---
 <br>
 
-## <span style ="color: #8b9dc3"> 3. Variables </span>
+## 3. Variables 
 
 Table 1 provides a brief summary of the variables scraped from Facebook's Graph API. More information pertaining to these variables can be found on `Rfacebook's` [GitHub repository](https://github.com/pablobarbera/Rfacebook) and [CRAN documentation](https://cran.r-project.org/web/packages/Rfacebook/Rfacebook.pdf). 
 
@@ -97,7 +97,7 @@ Below is a brief summary of additional variables that were created based on info
 ---
 <br>
 
-## <span style ="color: #8b9dc3"> 4. Data Cleaning </span>
+## 4. Data Cleaning 
 
 The structured data in this repository (e.g., number of likes, shares, comments, etc.) are unchanged since being queried from Facebook's Graph API. The only exception is the creation of `user_id` based on `from_id` to anonymize users ids (see the section above on variables). 
 
@@ -112,7 +112,7 @@ Multiple R packages were used to run these preprocessing tasks. You will find al
 ---
 <br>
 
-## <span style ="color: #8b9dc3"> 5. How the Data are Organized </span>
+## 5. How the Data are Organized 
 
 This section briefly describes how data were organized. Figure 1 serves as a visual illustration of the relationship between data sets. 
 
@@ -148,7 +148,7 @@ The final data set is a collection of Facebook user responses to posts that cand
 <br>
 
 ---
-## <span style ="color: #8b9dc3"> Disclaimer: </span>
+## Disclaimer: 
 
 If you use these data I make no warranties regarding the accuracy of this information and disclaim any liability for damages resulting from using this repository. 
 
