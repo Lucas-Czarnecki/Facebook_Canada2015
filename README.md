@@ -119,7 +119,7 @@ This section briefly describes how data were organized. Figure 1 serves as a vis
 <br>
 
 ### Figure 1. The Relationships Between Datasets
-![Facebook Relational Data](\images\Facebook_Relational_Data.png)
+![Facebook Relational Data](https://github.com/Lucas-Czarnecki/Facebook_Canada2015/blob/master/images/Facebook_Relational_Data.png)
 *Notes. The data pertaining to party leaders in this example are real. All information relating to Facebook users (e.g.,
 from_id, from_name, message) are fictionalized.*
 
