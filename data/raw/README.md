@@ -30,7 +30,7 @@ The following summarizes the `Rfacebook` functions used and their purpose:
 
 ## 3. Organization
 
-The raw data are organized into four folders. The first is <br>"Facebook Pages"</br> which contains the raw structured data obtained using `Rfacebook's` `getPage` function. The remaining three folders pertain to each candidate's Facebook page; namely, Harper, Trudeau, and Mulcair. Each folder contains the raw data queried from Facebook using the `getPost` function. For convenience, the data in candidates' folders are presented as .rds files (for R users) and as csvs (for non-R users).
+The raw data are organized into four folders. The first is <b>"Facebook Pages"</b> which contains the raw structured data obtained using `Rfacebook's` `getPage` function. The remaining three folders pertain to each candidate's Facebook page; namely, Harper, Trudeau, and Mulcair. Each folder contains the raw data queried from Facebook using the `getPost` function. For convenience, the data in candidates' folders are presented as .rds files (for R users) and as csvs (for non-R users).
 
 ---
 
