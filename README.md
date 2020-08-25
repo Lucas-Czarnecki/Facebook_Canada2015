@@ -3,11 +3,11 @@
 ## <span style ="color: #dfe3ee"> Table of Contents: </span>
 ---
 
-1. [Introduction to the Data](#1.-Introduction-to-the-Data)
-2. [Data Collection](#2.-data-collection)
-3. [Variables](#3.-variables)
-4. [Data Cleaning](#4.-data-cleaning)
-5. [How the Data are Organized](#5.-How-the-Data-are-Organized)
+1. [Introduction to the Data](#1-Introduction-to-the-Data)
+2. [Data Collection](#2-data-collection)
+3. [Variables](#3-variables)
+4. [Data Cleaning](#4-data-cleaning)
+5. [How the Data are Organized](#5-How-the-Data-are-Organized)
 ---
 
 ## 1. Introduction to the Data
