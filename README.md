@@ -1,5 +1,7 @@
 # <span style ="color: #3b5998"> **The 2015 Canadian Federal Election on Facebook** </span>
 
+[![DOI](https://zenodo.org/badge/284363795.svg)](https://zenodo.org/badge/latestdoi/284363795)
+
 ## <span style ="color: #dfe3ee"> Table of Contents: </span>
 ---
 
