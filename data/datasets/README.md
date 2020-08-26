@@ -1,4 +1,5 @@
 # Facebook Datasets
+[![DOI](https://zenodo.org/badge/284363795.svg)](https://zenodo.org/badge/latestdoi/284363795)
 
 ## 1. The Facebook Pages Dataset
 This data set contains strictly structured data on every post published to the three verified public Facebook pages in this repository. Data range from August 4th until October 19th, 2015, consisting of every post published to Facebook during this time (N = 1,711).
